@@ -1,10 +1,14 @@
 # tetrisJS
 Created tetris with vanilla JavaScript utilizing the Canvas API.
 
-## Instructions :memo:
-You can either play by clicking [this]() link or setting up a local host (see below).
+<div style="float: left;">
+  <img src="CAPTURE.gif" width="40%">
+</div>
 
-## Setting up a Local Host
+## Instructions :memo:
+You can either play by clicking [this](https://wizardly-mcclintock-6bbe8b.netlify.app/) link or setting up a local host (see below).
+
+## Setting up a Local Host :thinking:
 Make sure [Git](https://git-scm.com/) and [node.js](https://nodejs.org/en/download/) are installed!
 
 First, clone the repository to your local machine.
