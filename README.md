@@ -1,5 +1,5 @@
 # tetrisJS
-Created tetris with vanilla JavaScript utilizing the Canvas API. Control the peices using arrow keys and to floor a peices use the space bar.
+Created tetris with vanilla JavaScript utilizing the Canvas API. Control the peices using arrow keys and to floor a peice use the space bar.
 
 <div style="float: left;">
   <img src="CAPTURE.gif" width="30%">
